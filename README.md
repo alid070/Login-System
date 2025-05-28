@@ -1,1 +1,3 @@
 # Login-System
+
+This is a simple web-based Login and Registration System built using Python Flask and SQLite. The project demonstrates the core functionalities of user authentication, including registering new users, logging in with credentials, and redirecting to a protected home page upon successful login. The system uses a clean HTML frontend and a lightweight SQLite database that is auto-created on first run. This project is ideal for beginners who want to understand how web applications interact with databases and how user sessions are managed in Flask. It also serves as a great foundation for more advanced systems like user role management or full-stack authentication setups.
